@@ -47,8 +47,9 @@ st.markdown("""
   }
 
   /* ── Hide streamlit chrome ── */
-  #MainMenu, footer, header { visibility: hidden; }
-  .block-container { padding: 1.5rem 2rem 2rem 2rem !important; max-width: 100% !important; }
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }
+.block-container { padding: 1.5rem 2rem 2rem 2rem !important; max-width: 100% !important; }
 
   /* ── Sidebar ── */
   [data-testid="stSidebar"] {
