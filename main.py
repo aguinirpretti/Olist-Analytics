@@ -171,7 +171,7 @@ header { visibility: visible; }
   }
   .chart-sub {
     font-size: 11px;
-    color: #334155;
+    color: #c8ccd2;
     margin-bottom: 14px;
   }
 
