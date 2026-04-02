@@ -49,10 +49,7 @@ st.markdown("""
   /* ── Hide streamlit chrome ── */
 #MainMenu { visibility: hidden; }
 footer { visibility: hidden; }
-header { 
-  visibility: hidden; 
-  height: 0; 
-}
+header { visibility: visible; }
 
   /* ── Sidebar ── */
   [data-testid="stSidebar"] {
