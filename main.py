@@ -49,10 +49,10 @@ st.markdown("""
   /* ── Hide streamlit chrome ── */
 #MainMenu { visibility: hidden; }
 footer { visibility: hidden; }
-[data-testid="stToolbar"] { display: none !important; }
-a[href*="github.com"] { display: none !important; }
-.stToolbar { display: none !important; }
-.block-container { padding: 1.5rem 2rem 2rem 2rem !important; max-width: 100% !important; }
+header { 
+  visibility: hidden; 
+  height: 0; 
+}
 
   /* ── Sidebar ── */
   [data-testid="stSidebar"] {
