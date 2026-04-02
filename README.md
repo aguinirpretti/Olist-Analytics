@@ -12,7 +12,7 @@
 
 ## 🌐 Demo ao vivo
 
-**[👉 Acessar o dashboard](SEU_LINK_AQUI)**
+**[👉 Acessar o dashboard](https://olist-analytics.streamlit.app/)**
 
 > A plataforma hiberna o app após períodos de inatividade. Se aparecer uma tela com emoji de sono, clique no botão amarelo e aguarde alguns segundos.
 
