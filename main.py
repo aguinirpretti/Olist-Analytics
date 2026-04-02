@@ -12,6 +12,7 @@ st.set_page_config(
     page_title="Olist Analytics · Power Dashboard",
     page_icon="📦",
     layout="wide",
+    initial_sidebar_state="collapsed",
 )
 
 # ─── THEME / CSS ──────────────────────────────────────────────────────────────
